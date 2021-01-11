@@ -1,6 +1,10 @@
 # Advanced User Experience Research Projects
 
-#### Includes a design process flowchart in the repo
+#### Contents:
+#### 1. Design process flowchart
+#### 2. User testing plan
+
+
 
 
 
